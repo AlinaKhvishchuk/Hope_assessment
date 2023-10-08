@@ -1,8 +1,9 @@
-# React + Vite
+# Part 2 - Code Implementation:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+8. Create a simple React component that displays "Hello World!" as text.
 
-Currently, two official plugins are available:
+9. Create a form component with input fields for name and email.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+10. Implement a React component that displays a list of items.
+
+11. Use React Router to create a multi-page application with a navigation menu.
