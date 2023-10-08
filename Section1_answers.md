@@ -47,7 +47,7 @@
    React Router is a library used in React applications to handle navigation and routing. Its main purpose is to enable the creation of single-page applications (SPAs) by managing the display of different views or pages within the same HTML document without requiring full-page reloads.
    React Router provides a way to create a seamless and dynamic user experience in your React application by managing how different components are displayed based on the URL. It is a vital tool for building SPAs with complex navigation and multiple views.
 
-============= Answers to questions 8-11 are separately ===========================
+============= Answers to questions 8-11 are HERE [Part 2 - Code implementation](HOPE_Assessment) =============
 
 12. **Explain the concept of React hooks.**
 
