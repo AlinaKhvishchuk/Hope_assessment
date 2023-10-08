@@ -6,7 +6,7 @@ This React.js assessment is divided into two sections, each designed to evaluate
 
 ## Section 1: Theoretical Knowledge
 
-In this section, I answered theoretical questions to demonstrate your understanding of basic and advanced React.js concepts. You can find the answers to these questions in the document provided here: [Section1_answers](Section1_answers.txt)
+In this section, I answered theoretical questions to demonstrate your understanding of basic and advanced React.js concepts. You can find the answers to these questions in the document provided here: [Section1_answers](Section1_answers.md)
 
 ## Section 2: Coding Implementation
 
