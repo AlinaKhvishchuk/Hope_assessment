@@ -1,9 +1,9 @@
 import { useState } from "react";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import FormComponent from "./components/FormComponent";
+import Home from "./components/Home";
 import ItemsList from "./components/ItemsList";
 import Navigation from "./components/Navigation";
-import "./css/App.css";
 
 const data = [
   { firstname: "John", lastname: "Doe" },
@@ -28,8 +28,9 @@ function App() {
     <>
       <BrowserRouter>
         <Navigation />
-        <h1>Hello World!</h1>
+
         <Routes>
+          <Route exact path="/" element={<Home />} />
           <Route path="/form" element={<FormComponent />} />
           <Route path="/items" element={<ItemsList people={data} />} />
         </Routes>

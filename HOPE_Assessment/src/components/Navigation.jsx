@@ -5,6 +5,9 @@ const Navigation = () => (
   <nav>
     <ul id="navbar">
       <li className="nav-items">
+        <Link to="/">Home</Link>
+      </li>
+      <li className="nav-items">
         <Link to="/form">Form</Link>
       </li>
       <li className="nav-items">
