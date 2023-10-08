@@ -18,3 +18,4 @@ The project included real-time chat functionality and a Marketplace for buying a
 - Firebase
 - Expo
 - TypeScript
+- Formik
