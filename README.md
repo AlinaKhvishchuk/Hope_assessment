@@ -10,7 +10,7 @@ In this section, I answered theoretical questions to demonstrate your understand
 
 ## Section 2: Coding Implementation
 
-The second part of this assessment assesses my ability to apply my knowledge to practical projects. The project is here: [WriteWise] (https://github.com/AlinaKhvishchuk/WriteWise).
+The second part of this assessment assesses my ability to apply my knowledge to practical projects. The link on a project GitHub repository is here: [WriteWise](https://github.com/AlinaKhvishchuk/WriteWise).
 
 ## Contacts
 
